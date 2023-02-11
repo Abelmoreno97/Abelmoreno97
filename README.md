@@ -5,7 +5,7 @@ Hola 👋, soy Abel Yamil Moreno
 Full-Stack Developer
 
 ¿Quién soy?
-Soy un Desarrollador Full Stack, Me metí en el mundo de la programación hace 1 año  y ya me siento capaz de trabajar en equipo o en proyecto individual, tengo conocimientos en Tecnologías como JavaScript, React, Redux, Express, NodeJS, SQL, PostgreSql, Html, Css, Styled Components, Bootstrap.
+Soy un Desarrollador Full Stack, Entré en el mundo de la programación hace 1 año  y ya me siento capaz de trabajar en equipo o en proyecto individual, tengo conocimientos en Tecnologías como JavaScript, React, Redux, Express, NodeJS, SQL, PostgreSql, Html, Css, Styled Components, Bootstrap.
 
 
 ¿Por qué elegirme?
