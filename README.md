@@ -13,6 +13,8 @@ Siempre me gusta dar lo mejor de mí y trato de mejorar cada día ampliando mis 
 
 Obtuve mi experiencia como desarrollador de Full Stack en el Bootcamp de Henry. Fueron meses de mucho esfuerzo y dedicación donde mejoré mis habilidades en la tecnología y trabajé constantemente en equipo.
 
-no dude en contactarme para trabajar juntos 
+no dude en contactarme para trabajar juntos :
+
 email: abelyamilmorenomp@gmail.com
+
 linkedin: https://www.linkedin.com/in/abelmoreno97/
