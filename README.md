@@ -1,7 +1,8 @@
-![portada](https://user-images.githubusercontent.com/113840807/233707707-b92a934f-bd82-49ce-a898-636df84ce370.png)
+![portada](https://user-images.githubusercontent.com/113840807/233746508-b6bf8c94-743d-4682-be1f-00466c945291.png)
 ![Javascript Web Developer  React  NodeJS  SQL  SCRUM  HTML  CSS 📈💸Aficionado a las finanzas📈💸]
 
-Hola 👋, soy Abel Yamil Moreno
+Hola 👋, soy Abel Yamil Moreno![Javascript Web Developer  React  NodeJS  SQL  SCRUM  HTML  CSS 📈💸Aficionado a las finanzas📈💸 (1)]
+
 
 Soy un desarrollador web Full Stack apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con un enfoque en la responsabilidad, el compromiso, la proactividad, la iniciativa, la creatividad, la adaptabilidad, la sinceridad y la empatía, me esfuerzo por ser un profesional confiable y eficiente en mi trabajo.
 
