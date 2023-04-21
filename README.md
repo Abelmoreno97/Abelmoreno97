@@ -1,4 +1,5 @@
-![portada](https://user-images.githubusercontent.com/113840807/218283385-208db2a5-6f7c-4ae8-8687-a3a949033d8e.jpg)
+![portada](https://user-images.githubusercontent.com/113840807/233707707-b92a934f-bd82-49ce-a898-636df84ce370.png)
+![Javascript Web Developer  React  NodeJS  SQL  SCRUM  HTML  CSS 📈💸Aficionado a las finanzas📈💸]
 
 Hola 👋, soy Abel Yamil Moreno
 
