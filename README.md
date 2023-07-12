@@ -4,15 +4,20 @@
 Hola 👋, soy Abel Yamil Moreno![Javascript Web Developer  React  NodeJS  SQL  SCRUM  HTML  CSS 📈💸Aficionado a las finanzas📈💸 (1)]
 
 
-Soy un desarrollador web Full Stack apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con un enfoque en la responsabilidad, el compromiso, la proactividad, la iniciativa, la creatividad, la adaptabilidad, la sinceridad y la empatía, me esfuerzo por ser un profesional confiable y eficiente en mi trabajo.
+¡Hola! Mi nombre es Abel Yamil Moreno y soy un desarrollador web Full Stack apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con un enfoque en la responsabilidad, el compromiso, la proactividad, la creatividad, la adaptabilidad, la sinceridad y la empatía, me esfuerzo por ser un profesional confiable y eficiente en mi trabajo.
 
-Antes de mi entrada en el mundo IT, trabajé como técnico mecánico automotor y posteriormente como administrativo encargado de finanzas en una tapicería. Fue en este momento cuando descubrí mi pasión por el desarrollo web y la oportunidad de mejorar mi calidad de vida en un campo que me apasiona. Desde entonces, he estado trabajando diligentemente para formarme y adquirir conocimientos en HTML, CSS, Javascript, SQL, Redux y frameworks tales como React js, ChakraUI, Express js y metodologías ágiles Scrum.
+Antes de mi entrada en el mundo IT, trabajé como técnico mecánico automotor y posteriormente como administrativo encargado de finanzas en una tapicería. Fue en este momento cuando descubrí mi gusto por la programación y quise dedicarme a ello. Desde entonces, he estado trabajando diligentemente para formarme y adquirir conocimientos en:
 
-Mi experiencia académica en proyectos individuales y grupales dentro del bootcamp me ha ayudado a desarrollar habilidades en el desarrollo de aplicaciones web de alta calidad, y estoy ansioso por seguir aprendiendo y mejorando mis habilidades como desarrollador. Mi objetivo es insertarme en el mercado IT, continuar mejorando mis habilidades y avanzar hacia el progreso y la mejora en mi vida.
+Metodologias agiles (SCRUM)
+Lenguajes: C#, Javascript, SQL
+Herramientas UI: HTML, CSS, Bootstrap, Chakraui.
+Frameworks: React, asp.net, Espress (Node).
+Bases De Datos: MS-SQL-Server, PostgreSQL
+ 
+Estoy ansioso por seguir aprendiendo y mejorando mis habilidades como desarrollador. Mi objetivo es insertarme en el mercado IT, continuar mejorando mis habilidades y ser un valioso profesional del desarrollo.
 
-Si estás buscando a alguien que sea responsable, comprometido y tenga un enfoque proactivo en su trabajo, estaría encantado de hablar contigo sobre cómo puedo ayudar a tu equipo a desarrollar soluciones innovadoras.
-
+Si estás buscando a alguien que sea responsable, comprometido y tenga un enfoque proactivo en su trabajo, estaría encantado de conocerte, abajo están mis datos de contacto. Gracias por tu tiempo.
 
 E-mail: abelyamilmorenomp@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/abelmoreno97/
+https://www.linkedin.com/in/abelmoreno97/
+Whatsapp:+54 9 3513851480
