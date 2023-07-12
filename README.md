@@ -22,5 +22,7 @@ Estoy ansioso por seguir aprendiendo y mejorando mis habilidades como desarrolla
 Si estás buscando a alguien que sea responsable, comprometido y tenga un enfoque proactivo en su trabajo, estaría encantado de conocerte, abajo están mis datos de contacto. Gracias por tu tiempo.
 
 E-mail: abelyamilmorenomp@gmail.com
+
 https://www.linkedin.com/in/abelmoreno97/
+
 Whatsapp:+54 9 3513851480
