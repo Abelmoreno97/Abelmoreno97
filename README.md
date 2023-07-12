@@ -9,9 +9,13 @@ Hola 👋, soy Abel Yamil Moreno![Javascript Web Developer  React  NodeJS  SQL  
 Antes de mi entrada en el mundo IT, trabajé como técnico mecánico automotor y posteriormente como administrativo encargado de finanzas en una tapicería. Fue en este momento cuando descubrí mi gusto por la programación y quise dedicarme a ello. Desde entonces, he estado trabajando diligentemente para formarme y adquirir conocimientos en:
 
 Metodologias agiles (SCRUM)
+
 Lenguajes: C#, Javascript, SQL
+
 Herramientas UI: HTML, CSS, Bootstrap, Chakraui.
+
 Frameworks: React, asp.net, Espress (Node).
+
 Bases De Datos: MS-SQL-Server, PostgreSQL
  
 Estoy ansioso por seguir aprendiendo y mejorando mis habilidades como desarrollador. Mi objetivo es insertarme en el mercado IT, continuar mejorando mis habilidades y ser un valioso profesional del desarrollo.
